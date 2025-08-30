@@ -218,7 +218,7 @@ header .btn-menu-mob .line-menumob-2.ativo2 {
 
 section.hero-site {
     height: 100vh;
-    background-image: url(/imagens/bg-inicio-site.jpg);
+    background-image: url(../imagens/bg-inicio-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
